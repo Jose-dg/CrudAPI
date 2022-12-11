@@ -1,0 +1,7 @@
+{
+    "coins":[
+        {"id":1, "name": "Solana", "symbol":"SOL"}, 
+        {"id":2, "name": "Thether", "symbol":"USDT"}, 
+        {"id":3, "name": "Litecoin", "symbol":"LTC"}
+    ]
+}
